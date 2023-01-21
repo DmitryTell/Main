@@ -1,0 +1,23 @@
+body {
+    width: 500px;
+}
+
+h1 {
+    font-size: 40px;
+    text-align: center;
+    color: blue;
+}
+
+h2 {
+    font-size: 30px;
+    text-align: center;
+    font-weight: normal;
+    color: green;
+}
+
+p {
+    font: 16px Arial;
+    text-align: justify;
+    text-indent: 50px;
+    line-height: 1.5;
+}
